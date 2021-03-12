@@ -1,0 +1,136 @@
+body{
+    margin:0;
+    background-image: url(landingpage8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header-main{
+background-color:   rgba(56, 53, 53, 0.404);
+height: 80px;
+width: 100%;
+color:aliceblue;
+text-align-last:justify;
+}
+h1{
+    color: rgb(136, 40, 40); 
+}
+a{
+    color: rgb(217, 248, 217);
+    font-family: 'Berkshire Swash', cursive;
+    text-decoration: none;
+    
+}
+.logo{
+    
+    color: rgb(136, 40, 40);
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+#buaty{
+    background-color: rgba(56, 53, 53, 0.336);
+    width:100%;
+    height: 200px;
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+}
+h1{
+    font-size: 2.5em;
+    text-align: center;
+}
+#equipe{
+    background-color:;
+    width: 100%;
+    font-family:'Berkshire Swash', cursive;
+    text-align: center;
+}
+.team-wrapper{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+
+}
+.membre{
+    width: 600px;
+    background-color: rgba(186, 192, 192, 0.171);
+    display: flex;
+    text-align:left;
+    padding-left:10px;
+
+}
+img{
+    border-radius: 10px;
+    border: rgb(122, 122, 248) solid 2px;
+}
+#Actualités{
+    height: 500px;
+    width: 100%;
+    background-color: rgba(186, 192, 192, 0.349);
+}
+h2{
+    font-family:'Berkshire Swash', cursive; ;
+    font-size: 2em;
+    text-align: center;
+}
+.news-wrapper{
+    background-color: rgba(186, 192, 192, 0.555);
+     font-family:'Berkshire Swash', cursive;
+     display: flex;
+     justify-content:start;
+}
+.news-item{
+    background-color:rgba(186, 192, 192, 0.377);
+    text-align:center;
+    padding:15px;
+}
+.news-more{
+    display: flex;
+    justify-content:start;
+}
+.contact--form-wrapper{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    background-color:rgba(186, 192, 192, 0.329);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+    
+}
+form{
+    text-align: center;
+    padding: 5px;
+    font-family:'Berkshire Swash', cursive; 
+    text-decoration: underline;
+    }
+input{
+    border: solid black 1px;
+     margin: 5px;
+}
+textarea{
+    border: solid black 1px;
+}
+button{
+    font-family:'Berkshire Swash', cursive; 
+    background-color: rgb(136, 40, 40); ; 
+}
+.footer-main{
+    height: 150px;
+    width:100%;
+    background-color:rgba(56, 53, 53, 0.815); 
+    display: flex;
+    justify-content: space-between;
+}
+.footer-title{
+    color: brown;
+    font-size: 1.5em;
+    font-family:'Berkshire Swash', cursive;  
+    text-decoration: underline;
+}
+
+
+
